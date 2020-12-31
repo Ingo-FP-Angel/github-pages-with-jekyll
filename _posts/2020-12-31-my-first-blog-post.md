@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "First blog post"
 date: 2020-12-31
 ---
 First static entry
